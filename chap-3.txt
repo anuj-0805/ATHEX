@@ -1,0 +1,4 @@
+CLI
+mkdir
+mv
+bhumil papa bol de
